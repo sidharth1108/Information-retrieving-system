@@ -1,1 +1,1 @@
-# Information-retrieving-system
+# PDF Information-retriever
